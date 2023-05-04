@@ -24,6 +24,7 @@ USB
 Bluetooth
 ZigBee
 HDMI
+
 6)
 Data Link Layer
 The Data Link Layer is responsible for the reliable transfer of data between adjacent network nodes and includes the necessary functions to support error-free transmission of data frames over the physical layer. This layer deals with issues such as framing, flow control, error control, access control, and addressing.
@@ -36,6 +37,7 @@ Token Ring
 Frame Relay
 HDLC (High-Level Data Link Control)
 PPP (Point-to-Point Protocol)
+
 5)
 Network Layer
 The Network Layer provides routing and addressing services to move packets across multiple networks, and includes the necessary functions to support internetworking. This layer deals with issues such as routing, congestion control, and addressing.
