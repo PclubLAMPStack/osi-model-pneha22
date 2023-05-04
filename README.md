@@ -13,7 +13,7 @@ Presentation Layer
 Application Layer
 
 7)
-Physical Layer
+Physical Layer:
 The Physical Layer is responsible for the transmission and reception of unstructured raw data between a device and a physical transmission medium. This layer deals with the electrical and mechanical specifications of the physical interface and the transmission medium, including connectors, pins, use of pins, electrical signaling, and transmission medium.
 
 Protocols and services associated with this layer include:
@@ -26,7 +26,7 @@ ZigBee
 HDMI
 
 6)
-Data Link Layer
+Data Link Layer:
 The Data Link Layer is responsible for the reliable transfer of data between adjacent network nodes and includes the necessary functions to support error-free transmission of data frames over the physical layer. This layer deals with issues such as framing, flow control, error control, access control, and addressing.
 
 Protocols and services associated with this layer include:
@@ -39,7 +39,7 @@ HDLC (High-Level Data Link Control)
 PPP (Point-to-Point Protocol)
 
 5)
-Network Layer
+Network Layer:
 The Network Layer provides routing and addressing services to move packets across multiple networks, and includes the necessary functions to support internetworking. This layer deals with issues such as routing, congestion control, and addressing.
 
 Protocols and services associated with this layer include:
@@ -52,7 +52,7 @@ BGP (Border Gateway Protocol)
 IS-IS (Intermediate System to Intermediate System)
 
 4)
-Transport Layer
+Transport Layer:
 The Transport Layer is responsible for providing reliable end-to-end communication between devices on a network, and includes the necessary functions to support process-to-process communication. This layer deals with issues such as segmentation, reassembly, flow control, and error control.
 
 Protocols and services associated with this layer include:
@@ -65,7 +65,7 @@ DCCP (Datagram Congestion Control Protocol)
 RSVP (Resource Reservation Protocol)
 
 3)
-Session Layer
+Session Layer:
 The Session Layer provides the mechanism for opening, closing, and managing a session between end-user application processes, including the synchronization of their data exchange. This layer deals with issues such as session establishment, data exchange, and session termination.
 
 Protocols and services associated with this layer include:
@@ -78,7 +78,7 @@ RTSP (Real-Time Streaming Protocol)
 SIP (Session Initiation Protocol)
 
 2)
-Presentation Layer
+Presentation Layer:
 The Presentation Layer is responsible for data translation and code formatting services, ensuring that information sent from one system will be readable by the recipient system. This layer deals with issues such as data representation, encryption, and compression.
 
 Protocols and services associated with this layer include:
@@ -90,7 +90,7 @@ MPEG (Moving Picture Experts Group)
 SSL (Secure Sockets Layer)
 
 1)
-Application Layer
+Application Layer:
 
 Protocols:
 
