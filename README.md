@@ -48,6 +48,7 @@ ARP (Address Resolution Protocol)
 OSPF (Open Shortest Path First)
 BGP (Border Gateway Protocol)
 IS-IS (Intermediate System to Intermediate System)
+
 4)
 Transport Layer
 The Transport Layer is responsible for providing reliable end-to-end communication between devices on a network, and includes the necessary functions to support process-to-process communication. This layer deals with issues such as segmentation, reassembly, flow control, and error control.
@@ -60,6 +61,7 @@ SCTP (Stream Control Transmission Protocol)
 SPX (Sequenced Packet Exchange)
 DCCP (Datagram Congestion Control Protocol)
 RSVP (Resource Reservation Protocol)
+
 3)
 Session Layer
 The Session Layer provides the mechanism for opening, closing, and managing a session between end-user application processes, including the synchronization of their data exchange. This layer deals with issues such as session establishment, data exchange, and session termination.
@@ -72,6 +74,7 @@ PPTP (Point-to-Point Tunneling Protocol)
 RDP (Remote Desktop Protocol)
 RTSP (Real-Time Streaming Protocol)
 SIP (Session Initiation Protocol)
+
 2)
 Presentation Layer
 The Presentation Layer is responsible for data translation and code formatting services, ensuring that information sent from one system will be readable by the recipient system. This layer deals with issues such as data representation, encryption, and compression.
@@ -83,6 +86,7 @@ EBCDIC (Extended Binary Coded Decimal Interchange Code)
 JPEG (Joint Photographic Experts Group)
 MPEG (Moving Picture Experts Group)
 SSL (Secure Sockets Layer)
+
 1)
 Application Layer
 
